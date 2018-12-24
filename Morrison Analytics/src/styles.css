@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html,
+body {
+  background-color: #616161;
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
